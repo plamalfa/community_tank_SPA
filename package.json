@@ -6,10 +6,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-<<<<<<< HEAD
     "json-loader": "^0.5.7",
-=======
->>>>>>> 56185e96dcf11440d1048f5a8bddfeb5f5cf94ec
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
